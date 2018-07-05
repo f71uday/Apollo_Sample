@@ -1,0 +1,5 @@
+query ClientQuery($limit: Int!) {
+  user(limit: $limit) {
+    ID
+    }
+}
