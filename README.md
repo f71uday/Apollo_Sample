@@ -1,4 +1,8 @@
 # Apollo_Sample
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+
+
 [![Build Status](https://travis-ci.org/f71uday/Apollo_Sample.svg?branch=master)](https://travis-ci.org/f71uday/Apollo_Sample)
 
 
